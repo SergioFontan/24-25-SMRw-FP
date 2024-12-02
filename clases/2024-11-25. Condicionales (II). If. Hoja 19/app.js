@@ -83,6 +83,6 @@
 let total = parseFloat(prompt("Introduce el total de la cuenta"));
 let propina = parseFloat(prompt("Introduce cuanta propina le dejas"));
 
-// Comprobar que los datos estan en rango
+// Comprobar que los datos estan en rango 
 
 // Calcular resultado y mostrar en consola
