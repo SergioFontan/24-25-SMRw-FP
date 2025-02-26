@@ -16,8 +16,6 @@ Analiza cada situación y determina si el bucle más adecuado es `for` o `while`
 
 7. **Iniciar sesión:** Un usuario tiene hasta 3 intentos para escribir su contraseña correctamente antes de bloquearse. ¿Cuál es la mejor opción?
 
-8. **Cálculo de factorial:** Queremos calcular el factorial de un número `n` conocido de antemano. ¿Usamos `for` o `while`?
+8. **Buscar un número en una lista:** Un programa recorre una lista de números y se detiene al encontrar el número 25. ¿Qué bucle es el más eficiente?
 
-9. **Buscar un número en una lista:** Un programa recorre una lista de números y se detiene al encontrar el número 25. ¿Qué bucle es el más eficiente?
-
-10. **Simulación de carga:** Un proceso se ejecuta hasta que un sensor indica que la tarea ha finalizado. No sabemos cuántos ciclos serán. ¿For o while?
+9. **Simulación de carga:** Un proceso se ejecuta hasta que un sensor indica que la tarea ha finalizado. No sabemos cuántos ciclos serán. ¿For o while?
